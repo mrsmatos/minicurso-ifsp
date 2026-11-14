@@ -1,1 +1,2 @@
-print("Olá Git, temos aqui novas instruções básicas ")
+print("Ola, Git!")
+print("Este e o meu primeiro repositorio.")
